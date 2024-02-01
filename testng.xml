@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Datadrivan">
+    <classes>
+      <class name="Extent.Report.Testcase.ListSystem_login_page_Tasecase"/>
+    </classes>
+  </test> <!-- Datadrivan -->
+</suite> <!-- Suite -->
